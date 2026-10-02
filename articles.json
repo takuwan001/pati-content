@@ -296,5 +296,41 @@
     "titleOrig": "Gisou x Cedric Grolet, une collaboration d'automne exclusive",
     "leadOrig": "C'est une exquise collaboration gourmande que Gisou et le chef pâtissier Cedric Grolet signent pour une deuxième année, avec trois pâtisseries en édition limitée inspirées des collections d'automne de la marque de beauté.",
     "origLang": "fr", "person": "セドリック・グロレ"
+  },
+  {
+    "id": "auto20261001-4", "cat": "collection",
+    "source": "La Compagnie des Desserts", "time": "2026年秋冬",
+    "title": "「ラ・コンパニー・デ・デセール」、MOFフィリップ・ウラカ氏による2026年秋冬コレクションを発表",
+    "summary": "フランス国家最優秀職人賞(MOF)のパティシエが手がけた、業務用デザートの新作秋冬コレクションが登場。",
+    "detail": "バニラムースに、はちみつベースのバニラジュレやバニラライスプディングなどを重ねた新作「アンタンスマン・ヴァニーユ」や、スパイスを効かせたババ「バーバ・デピス」など、季節感のある新作がそろいます。業務用デザートメーカーとして知られる同社は、シェフ監修のレシピ動画や盛り付けのヒントもあわせて発信していく予定です。",
+    "url": "https://www.compagniedesdesserts.com/notre-collection-automne-hiver-2026-27/",
+    "image": null, "addedAt": "2026-10-01",
+    "titleOrig": "Notre collection Automne-Hiver 2026/27",
+    "leadOrig": "La Compagnie des Desserts dévoile sa nouvelle collection Automne-Hiver 2026/27, signée notamment par le Chef pâtissier MOF Philippe Urraca.",
+    "origLang": "fr", "person": "フィリップ・ウラカ"
+  },
+  {
+    "id": "auto20261001-5", "cat": "people",
+    "source": "Sortiraparis", "time": "2026年9月",
+    "title": "「世界一のパティシエ」マキシム・フレデリック氏、パリ17区「プランクール」で秋の新作を発表",
+    "summary": "2025年に世界最優秀パティシエに選ばれたシェフの店で、果物とチョコレートを主役にした秋のコレクションが登場。",
+    "detail": "パリ・バティニョール地区のパティスリー「プランクール」を営むマキシム・フレデリック氏は、ホテル「シュヴァル・ブラン・パリ」のシェフパティシエも務め、2025年に「世界のベストレストラン50」による世界最優秀パティシエに選出されました。秋のコレクションでは、桃やあんず、イチジクなど太陽を浴びた果物を使ったデザートと、ボリビア産カカオ75%のチョコレートを使ったフランが看板商品として並びます。",
+    "url": "https://www.sortiraparis.com/en/where-to-eat-in-paris/brunch-cafe-tea-time/articles/351695-these-parisian-pastries-for-the-2026-rentree-are-set-to-make-you-swoon",
+    "image": null, "addedAt": "2026-10-01",
+    "titleOrig": "These pastries for the Paris rentrée 2026 will have you swooning.",
+    "leadOrig": "Pleincoeur unveils its autumn 2026 collection, putting sun-ripened fruit and chocolate center stage.",
+    "origLang": "en", "person": "マキシム・フレデリック"
+  },
+  {
+    "id": "auto20261001-6", "cat": "craft",
+    "source": "Les Nouvelles Gastronomiques", "time": "2026年9月2日発売",
+    "title": "「ロスト・ド・ボーマニエール」シェフパティシエ、プラリネ専門の初著書「プラリネ(s)」を出版",
+    "summary": "三つ星レストランのシェフパティシエが、プラリネの技法を60のレシピで解説する初の著書を発表した。",
+    "detail": "南仏レ・ボー・ド・プロヴァンスにある三つ星レストラン「ロスト・ド・ボーマニエール」のシェフパティシエ、ブランドン・デアン氏が、シェフのグレン・ヴィエル氏とともにプラリネに特化した著書「プラリネ(s)」をアシェット社から刊行しました。木の実の下ごしらえや保存方法といった基礎から、パリ・ブレストやミルフィーユ・ボーマニエールといった名作デザート、さらには前菜向けの塩味アレンジ「プラリペロ」まで、60以上のレシピで技法を伝えています。",
+    "url": "https://nouvellesgastronomiques.com/brandon-dehan-devoile-pralines-60-recettes-consacrees-a-lart-du-praline/",
+    "image": null, "addedAt": "2026-10-01",
+    "titleOrig": "Brandon Dehan dévoile Praliné(s), 60 recettes consacrées à l'art du praliné",
+    "leadOrig": "Le Chef pâtissier de L'Oustau de Baumanière signe son premier livre, entièrement dédié à la technique du praliné.",
+    "origLang": "fr", "person": "ブランドン・デアン"
   }
 ]
