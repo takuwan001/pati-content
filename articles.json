@@ -524,5 +524,30 @@
     "url": "https://www.parismatch.be/lifestyle/food/2026/07/20/apres-la-patisserie-cyril-lignac-se-lance-dans-un-tout-nouveau-projet-encore-plus-fondant-cetait-une-evidence-pour-moi-BKC3Y45Q6RFRXII4KJF3ORSMT4/",
     "image": "images/auto20261002-6.jpg",
     "addedAt": "2026-10-02"
+  },
+  {
+    "id": "auto20261002-7",
+    "cat": "people",
+    "person": "アンヌ・コリュブル",
+    "source": "Gault&Millau",
+    "time": "2026年版(2025年11月発表)",
+    "title": "ペニンシュラ・パリのアンヌ・コリュブル氏、ゴー・エ・ミヨー「2026年パティシエ・オブ・ザ・イヤー」に選出",
+    "summary": "ペニンシュラ・パリのシェフパティシエが、フランスの有名グルメガイド「ゴー・エ・ミヨー」の2026年パティシエ賞を受賞した。",
+    "detail": "ノルマンディー出身のアンヌ・コリュブル氏は、フェランディ・パリで製菓を学んだのち、名店ル・ブリストルなどを経て2019年にペニンシュラ・パリへ入社。2021年からはシェフ・ドゥヴィッド・ビゼ氏とともにシェフパティシエを務めています。見た目はミニマルながら、ひと皿ごとに物語を感じさせる意外性のある味わいが高く評価されました。",
+    "url": "https://fr.gaultmillau.com/fr/news/patissiere-de-l-annee-2026-anne-coruble-sacree-par-gault-millau",
+    "image": "images/auto20261002-7.png",
+    "addedAt": "2026-10-02"
+  },
+  {
+    "id": "auto20261002-8",
+    "cat": "event",
+    "source": "Le Journal des Palaces / So Good Magazine",
+    "time": "2026年7月25日(決勝は2027年1月)",
+    "title": "クープ・デュ・モンド・ド・ラ・パティスリー、アメリカ大陸予選はアメリカ合衆国が優勝",
+    "summary": "ニューオーリンズで行われたアメリカ大陸予選で、アメリカ合衆国チームが優勝し世界決勝への出場権を獲得した。",
+    "detail": "フランソワ・ブウェ氏(ショコラ)、ジョーダン・スナイダー氏(シュガー)、ニコラス・フォルテ氏(アイス)によるアメリカ合衆国チームが、アルゼンチン・ブラジル・エクアドル・メキシコ・パラグアイ・ペルーなど計8チームの中から優勝を果たしました。2位メキシコ、3位パラグアイ、4位アルゼンチンも世界決勝への切符を手にしています。世界決勝は2027年1月22日・23日、フランス・リヨンの見本市「シラ」会期中に開催予定です。",
+    "url": "https://www.sogoodmagazine.com/pastry-blog/pastry-competition/the-united-states-wins-2026-pastry-world-cup-americas/",
+    "image": "images/auto20261002-8.jpg",
+    "addedAt": "2026-10-02"
   }
 ]
