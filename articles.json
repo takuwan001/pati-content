@@ -2,6 +2,7 @@
   {
     "id": "p5",
     "cat": "collection",
+    "country": "france",
     "isHero": true,
     "source": "Maison Pierre Hermé",
     "time": "2026年クリスマス",
@@ -19,6 +20,7 @@
   {
     "id": "p6",
     "cat": "collection",
+    "country": "france",
     "source": "Maison Pierre Hermé",
     "time": "2026年イースター",
     "title": "ピエール・エルメ、遊び心あふれるイースターコレクション「Ludique」",
@@ -35,6 +37,7 @@
   {
     "id": "p7",
     "cat": "collection",
+    "country": "france",
     "source": "Maison Pierre Hermé",
     "time": "2026年春夏",
     "title": "ピエール・エルメ 春夏コレクション、バジルやトマトの葉を使った意外な組み合わせ",
@@ -51,6 +54,7 @@
   {
     "id": "p9",
     "cat": "collection",
+    "country": "france",
     "source": "Yann Couvreur Pâtisserie",
     "time": "2026年イースター",
     "title": "ヤン・クヴルール、優雅なイースターコレクションを発表",
@@ -67,6 +71,7 @@
   {
     "id": "p8",
     "cat": "people",
+    "country": "france",
     "source": "JDS.fr",
     "time": "2026年シーズン",
     "title": "ヤン・クヴルール、コルシカ島「ドメーヌ・ド・ムルトリ」の全デザートを監修",
@@ -83,6 +88,7 @@
   {
     "id": "p2",
     "cat": "people",
+    "country": "france",
     "source": "VotreLeader",
     "time": "2026年2月",
     "title": "セドリック・グロレ、\"スーパースター・パティシエ\"の実像",
@@ -99,6 +105,7 @@
   {
     "id": "p3",
     "cat": "design",
+    "country": "france",
     "source": "Passion Gâteaux",
     "time": "2026年",
     "title": "2026年ケーキデザインの潮流、3Dプリント装飾が新たな表現に",
@@ -115,6 +122,7 @@
   {
     "id": "p1",
     "cat": "design",
+    "country": "france",
     "source": "Cedric Grolet Opera / Meurice",
     "time": "2026年秋",
     "title": "セドリック・グロレ、秋の新作「マンゴーフラワー」「ココアポッド」",
@@ -131,6 +139,7 @@
   {
     "id": "p4",
     "cat": "craft",
+    "country": "france",
     "source": "METRO Blog",
     "time": "2026年",
     "title": "2026年、注目すべき製菓トレンド3選",
@@ -147,6 +156,7 @@
   {
     "id": "p10",
     "cat": "event",
+    "country": "france",
     "source": "Sortiraparis",
     "time": "2026年10月28日〜11月1日",
     "title": "サロン・デュ・ショコラ、パリで30周年記念開催",
@@ -163,6 +173,7 @@
   {
     "id": "n1",
     "cat": "collection",
+    "country": "france",
     "source": "Christophe Michalak",
     "time": "2026年イースター",
     "title": "クリストフ・ミシャラク、トロンプルイユのクルミを模したイースターチョコレート",
@@ -179,6 +190,7 @@
   {
     "id": "n2",
     "cat": "collection",
+    "country": "france",
     "source": "Christophe Michalak",
     "time": "2026年1月(エピファニー)",
     "title": "クリストフ・ミシャラク、故郷プロヴァンスへのオマージュを込めたガレット・デ・ロワ",
@@ -195,6 +207,7 @@
   {
     "id": "n3",
     "cat": "people",
+    "country": "france",
     "source": "Au Cœur du CHR",
     "time": "2026年",
     "title": "クリストフ・ミシャラク、パリに新店舗をオープン",
@@ -211,6 +224,7 @@
   {
     "id": "n4",
     "cat": "event",
+    "country": "france",
     "source": "Les Nouvelles Gastronomiques",
     "time": "2026年5月",
     "title": "サントロペで「ベスト・トロペジエンヌ」コンテスト開催、審査委員長はミシャラク氏",
@@ -227,6 +241,7 @@
   {
     "id": "n5",
     "cat": "design",
+    "country": "france",
     "source": "Philippe Conticini",
     "time": "2026年",
     "title": "フィリップ・コンティチーニ、ラズベリー・ベルガモットタルトなど新作を発表",
@@ -243,6 +258,7 @@
   {
     "id": "n6",
     "cat": "collection",
+    "country": "france",
     "source": "Ladurée",
     "time": "2026年イースター",
     "title": "ラデュレ、花咲く庭をイメージした「Sweet Flowers」イースターコレクション",
@@ -259,6 +275,7 @@
   {
     "id": "n8",
     "cat": "people",
+    "country": "france",
     "source": "Le Mémento Paris",
     "time": "2026年",
     "title": "ファション、創業140周年に向けて大規模な刷新を開始",
@@ -275,6 +292,7 @@
   {
     "id": "n9",
     "cat": "people",
+    "country": "france",
     "source": "Guinness World Records",
     "time": "2026年6月",
     "title": "アムリー・ギション、チョコレート彫刻でギネス世界記録4冠",
@@ -291,6 +309,7 @@
   {
     "id": "n10",
     "cat": "event",
+    "country": "france",
     "source": "France 3 Régions",
     "time": "2026年3月",
     "title": "国家最優秀職人賞(MOF)予選、リールで開催",
@@ -307,6 +326,7 @@
   {
     "id": "n11",
     "cat": "craft",
+    "country": "france",
     "source": "Madein31",
     "time": "2026年",
     "title": "2026年のヴィエノワズリー潮流「クルッキー」「ニューヨークロール」",
@@ -323,6 +343,7 @@
   {
     "id": "n12",
     "cat": "craft",
+    "country": "france",
     "source": "Valrhona",
     "time": "2026年",
     "title": "ヴァローナが解説、2026年のチョコレート×ヴィエノワズリー融合トレンド",
@@ -339,6 +360,7 @@
   {
     "id": "n14",
     "cat": "people",
+    "country": "france",
     "source": "Airbnb Newsroom",
     "time": "2026年",
     "title": "Airbnb、アムリー・ギションとパリ限定体験を提供開始",
@@ -355,6 +377,7 @@
   {
     "id": "auto20261001-1",
     "cat": "event",
+    "country": "france",
     "source": "Les Nouvelles Gastronomiques",
     "time": "2026年1月",
     "title": "クープ・デュ・モンド・ド・ラ・パティスリー、ヨーロッパ予選でフランスが連覇",
@@ -371,6 +394,7 @@
   {
     "id": "auto20261001-2",
     "cat": "collection",
+    "country": "france",
     "source": "Presse Agence",
     "time": "2026年9月17日〜11月19日",
     "title": "ピエール・エルメ、名作フレーバー「モガドール」を祝う期間限定コレクション",
@@ -387,6 +411,7 @@
   {
     "id": "auto20261001-3",
     "cat": "people",
+    "country": "france",
     "source": "Luxe en France",
     "time": "2026年10月3日・4日",
     "title": "セドリック・グロレ、美容ブランド「ジス」との蜂蜜コラボレーションを2年連続で開催",
@@ -403,6 +428,7 @@
   {
     "id": "auto20261001-4",
     "cat": "collection",
+    "country": "france",
     "source": "La Compagnie des Desserts",
     "time": "2026年秋冬",
     "title": "「ラ・コンパニー・デ・デセール」、MOFフィリップ・ウラカ氏による2026年秋冬コレクションを発表",
@@ -419,6 +445,7 @@
   {
     "id": "auto20261001-5",
     "cat": "people",
+    "country": "france",
     "source": "Sortiraparis",
     "time": "2026年9月",
     "title": "「世界一のパティシエ」マキシム・フレデリック氏、パリ17区「プランクール」で秋の新作を発表",
@@ -435,6 +462,7 @@
   {
     "id": "auto20261001-6",
     "cat": "craft",
+    "country": "france",
     "source": "Les Nouvelles Gastronomiques",
     "time": "2026年9月2日発売",
     "title": "「ロスト・ド・ボーマニエール」シェフパティシエ、プラリネ専門の初著書「プラリネ(s)」を出版",
@@ -451,6 +479,7 @@
   {
     "id": "auto20261002-1",
     "cat": "collection",
+    "country": "france",
     "person": "ピエール・エルメ",
     "source": "Paris Select Book",
     "time": "2026年9月",
@@ -464,6 +493,7 @@
   {
     "id": "auto20261002-2",
     "cat": "event",
+    "country": "france",
     "person": "クリストフ・フェルデール",
     "source": "Le Journal des Palaces",
     "time": "2026年10月3日・4日",
@@ -477,6 +507,7 @@
   {
     "id": "auto20261002-3",
     "cat": "design",
+    "country": "france",
     "source": "The Hype Menu",
     "time": "2026年",
     "title": "荒々しい見た目があえての魅力「カオスケーキ」、2026年のSNSトレンドに",
@@ -489,6 +520,7 @@
   {
     "id": "auto20261002-4",
     "cat": "collection",
+    "country": "france",
     "person": "ラデュレ",
     "source": "Paris Select Book",
     "time": "2026年9月1日〜12月31日",
@@ -502,6 +534,7 @@
   {
     "id": "auto20261002-5",
     "cat": "people",
+    "country": "france",
     "person": "ピエール・エルメ",
     "source": "Curly Tales",
     "time": "2026年9月",
@@ -515,6 +548,7 @@
   {
     "id": "auto20261002-6",
     "cat": "people",
+    "country": "france",
     "person": "シリル・リニャック",
     "source": "Paris Match Belgique",
     "time": "2026年7月",
@@ -528,6 +562,7 @@
   {
     "id": "auto20261002-7",
     "cat": "people",
+    "country": "france",
     "person": "アンヌ・コリュブル",
     "source": "Gault&Millau",
     "time": "2026年版(2025年11月発表)",
@@ -541,6 +576,7 @@
   {
     "id": "auto20261002-8",
     "cat": "event",
+    "country": "france",
     "source": "Le Journal des Palaces / So Good Magazine",
     "time": "2026年7月25日(決勝は2027年1月)",
     "title": "クープ・デュ・モンド・ド・ラ・パティスリー、アメリカ大陸予選はアメリカ合衆国が優勝",
@@ -553,6 +589,7 @@
   {
     "id": "auto20261003-1",
     "cat": "people",
+    "country": "france",
     "person": "クリストフ・ミシャラク",
     "source": "CFNEWS",
     "time": "2026年4月28日",
@@ -566,6 +603,7 @@
   {
     "id": "auto20261003-2",
     "cat": "event",
+    "country": "france",
     "person": "アムリー・ギション",
     "source": "So Good Magazine",
     "time": "2026年10月26日・27日",
@@ -579,6 +617,7 @@
   {
     "id": "auto20261003-3",
     "cat": "collection",
+    "country": "france",
     "person": "アンジェロ・ムーザ",
     "source": "Paris Select Book",
     "time": "2026年3月23日〜4月8日(受取期間)",
@@ -592,6 +631,7 @@
   {
     "id": "auto20261004-1",
     "cat": "people",
+    "country": "france",
     "person": "ピエール・エルメ",
     "source": "So Good Magazine",
     "time": "2026年6月(発表)",
@@ -605,6 +645,7 @@
   {
     "id": "auto20261004-2",
     "cat": "event",
+    "country": "france",
     "person": "エンゾ・バプティスタ",
     "source": "Ville de Paris / BO&MIE",
     "time": "2026年(候補受付は10月24日まで)",
@@ -618,6 +659,7 @@
   {
     "id": "auto20261004-3",
     "cat": "design",
+    "country": "france",
     "person": "セドリック・グロレ",
     "source": "Journal du Luxe",
     "time": "2026年6月",
@@ -631,6 +673,7 @@
   {
     "id": "auto20261005-1",
     "cat": "event",
+    "country": "france",
     "person": "フィリップ・アルサック",
     "source": "Le Bonbon",
     "time": "2026年(グラン・パリ地区)",
@@ -644,6 +687,7 @@
   {
     "id": "auto20261005-2",
     "cat": "collection",
+    "country": "france",
     "person": "アルノー・ラルシェ",
     "source": "Hotel Fauchon Paris",
     "time": "2026年9月7日より",
@@ -657,6 +701,7 @@
   {
     "id": "auto20261005-3",
     "cat": "craft",
+    "country": "france",
     "source": "Delifrance",
     "time": "2026年",
     "title": "Delifrance、2026年ベーカリー&パティスリーの潮流は「ハイブリッド×フレーバーフュージョン」",
@@ -669,6 +714,7 @@
   {
     "id": "auto20261006-1",
     "cat": "craft",
+    "country": "france",
     "person": "ニナ・メタイエ",
     "source": "BnF(フランス国立図書館)",
     "time": "2026年秋刊行",
@@ -682,6 +728,7 @@
   {
     "id": "auto20261006-2",
     "cat": "collection",
+    "country": "france",
     "person": "ピエール・エルメ",
     "source": "Time Out Hong Kong",
     "time": "2026年10月1日〜11月30日",
@@ -695,6 +742,7 @@
   {
     "id": "auto20261007-1",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-07",
     "person": "ジェフリー・カーニュ",
     "source": "Le Bonbon",
@@ -708,6 +756,7 @@
   {
     "id": "auto20261007-2",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-07",
     "source": "So Good Magazine",
     "time": "2026年",
@@ -720,6 +769,7 @@
   {
     "id": "auto20261007-3",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-07",
     "person": "シリル・リニャック",
     "source": "Paris Gourmand",
@@ -733,6 +783,7 @@
   {
     "id": "auto20261008-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-08",
     "source": "So Good Magazine",
     "time": "2026年10月(FHA2026内)",
@@ -745,6 +796,7 @@
   {
     "id": "auto20261008-2",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-10-08",
     "person": "パトリック・ロジェ",
     "source": "Time Out Paris",
@@ -758,6 +810,7 @@
   {
     "id": "auto20261008-3",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-08",
     "source": "Relais Desserts",
     "time": "2026年11月8日",
@@ -770,6 +823,7 @@
   {
     "id": "auto20261009-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-09",
     "source": "Salon du Chocolat",
     "time": "2026年10月28日〜11月1日",
@@ -782,6 +836,7 @@
   {
     "id": "auto20261009-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-09",
     "person": "ファション",
     "source": "Hotel Fauchon Paris / Journal des Palaces",
@@ -795,6 +850,7 @@
   {
     "id": "auto20261009-3",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-10-09",
     "person": "マキシム・フレデリック",
     "source": "Paris Select Book",
@@ -808,6 +864,7 @@
   {
     "id": "auto20261010-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-10",
     "person": "ニナ・メタイエ",
     "source": "Air France(公式ニュースルーム)",
@@ -821,6 +878,7 @@
   {
     "id": "auto20261010-2",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-10",
     "source": "Lavenir.net",
     "time": "2026年4月(放送は秋)",
@@ -833,6 +891,7 @@
   {
     "id": "auto20261010-3",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-10",
     "source": "La Revue des Hôtels",
     "time": "2026年10月15日より予約受付開始",
@@ -845,6 +904,7 @@
   {
     "id": "auto20261011-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-11",
     "person": "ラデュレ",
     "source": "Touteslesbox.fr",
@@ -858,6 +918,7 @@
   {
     "id": "auto20261011-2",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-11",
     "person": "トマ・デュラ",
     "source": "Lyon Mag",
@@ -871,6 +932,7 @@
   {
     "id": "auto20261012-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-12",
     "person": "ニナ・メタイエ",
     "source": "Paris Gourmand",
@@ -884,6 +946,7 @@
   {
     "id": "auto20261012-2",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-12",
     "person": "セバスチャン・ブイエ",
     "source": "Have a Good Holiday",
@@ -897,6 +960,7 @@
   {
     "id": "auto20261012-3",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-12",
     "source": "Puratos Taste Tomorrow",
     "time": "2026年",
@@ -909,6 +973,7 @@
   {
     "id": "auto20261013-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-13",
     "source": "Telquel",
     "time": "2026年9月22日〜24日",
@@ -921,6 +986,7 @@
   {
     "id": "auto20261013-2",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-10-13",
     "person": "オレリアン・コーエン",
     "source": "Foodinspace",
@@ -934,6 +1000,7 @@
   {
     "id": "auto20261013-3",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-13",
     "person": "メルコット",
     "source": "Gault&Millau",
@@ -947,6 +1014,7 @@
   {
     "id": "auto20261015-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-15",
     "person": "ヴィンセント・ヴァレ",
     "source": "Relais Desserts",
@@ -960,6 +1028,7 @@
   {
     "id": "auto20261015-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-15",
     "source": "Jadis et Gourmande / Paris Friendly",
     "time": "2026年10月8日発売",
@@ -972,6 +1041,7 @@
   {
     "id": "auto20261015-3",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-10-15",
     "source": "ABC Salles",
     "time": "2026年",
@@ -984,6 +1054,7 @@
   {
     "id": "auto20261016-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-16",
     "person": "マクサンス・バルボ",
     "source": "Paris Gourmand",
@@ -997,6 +1068,7 @@
   {
     "id": "auto20261016-2",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-16",
     "person": "ニナ・メタイエ",
     "source": "アプランティ・ドートゥイユ財団",
@@ -1010,6 +1082,7 @@
   {
     "id": "auto20261016-3",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-10-16",
     "person": "バスティアン・ブラン=タイユール",
     "source": "France 24",
@@ -1023,6 +1096,7 @@
   {
     "id": "auto20261017-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-17",
     "source": "Sortiraparis",
     "time": "2027年10月2日・3日(開催地が発表)",
@@ -1035,6 +1109,7 @@
   {
     "id": "auto20261017-2",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-10-17",
     "person": "アメリア・デュヴェルジェ",
     "source": "Sortiraparis",
@@ -1048,6 +1123,7 @@
   {
     "id": "auto20261017-3",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-17",
     "person": "アルノー・デルモンテル",
     "source": "Rizzoli / Kitchen Arts & Letters",
@@ -1061,6 +1137,7 @@
   {
     "id": "auto20261018-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-18",
     "source": "Les Nouvelles Gastronomiques",
     "time": "2026年10月12日〜14日",
@@ -1073,6 +1150,7 @@
   {
     "id": "auto20261018-2",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-18",
     "source": "Autour du Gâteau",
     "time": "2026年",
@@ -1085,6 +1163,7 @@
   {
     "id": "auto20261018-3",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-18",
     "person": "ブノワ・カステル",
     "source": "Le Bonbon",
@@ -1098,6 +1177,7 @@
   {
     "id": "auto20261019-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-19",
     "source": "Paris Select Book",
     "time": "2026年10月3日開催(10月17日報道)",
@@ -1110,6 +1190,7 @@
   {
     "id": "auto20261019-2",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-19",
     "person": "ジャド・ジュナン",
     "source": "Time Out Paris",
@@ -1123,6 +1204,7 @@
   {
     "id": "auto20261019-3",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-19",
     "person": "マルセロ・マビリア",
     "source": "Sortiraparis",
@@ -1136,6 +1218,7 @@
   {
     "id": "auto20261020-1",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-20",
     "person": "ジャン=ミシェル・ペリュション",
     "source": "So Good Magazine",
@@ -1149,6 +1232,7 @@
   {
     "id": "auto20261020-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-20",
     "person": "ピエール・マルコリーニ",
     "source": "Gault&Millau",
@@ -1162,6 +1246,7 @@
   {
     "id": "auto20261020-3",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-20",
     "source": "Demotivateur",
     "time": "2026年(SNS発のトレンド)",
@@ -1174,6 +1259,7 @@
   {
     "id": "auto20261021-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-21",
     "person": "ピエール・エルメ",
     "source": "プレジダンス・ド・ラ・レピュブリック(エリゼ宮)",
@@ -1187,6 +1273,7 @@
   {
     "id": "auto20261022-2",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-22",
     "source": "Sortiraparis",
     "time": "2026年9月1日開業",
@@ -1199,6 +1286,7 @@
   {
     "id": "auto20261023-1",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-10-23",
     "person": "シリル・リニャック",
     "source": "Gault&Millau",
@@ -1212,6 +1300,7 @@
   {
     "id": "auto20261024-1",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-24",
     "person": "アラン・デュカス",
     "source": "Purepeople",
@@ -1225,6 +1314,7 @@
   {
     "id": "auto20261025-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-25",
     "person": "シリル・リニャック",
     "source": "Touteslesbox.fr",
@@ -1238,6 +1328,7 @@
   {
     "id": "auto20261026-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-26",
     "person": "エティエンヌ・ルロワ",
     "source": "Paris Select Book",
@@ -1251,6 +1342,7 @@
   {
     "id": "auto20261027-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-27",
     "person": null,
     "source": "Paris Gourmand",
@@ -1264,6 +1356,7 @@
   {
     "id": "auto20261028-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-28",
     "person": null,
     "source": "Gault&Millau",
@@ -1277,6 +1370,7 @@
   {
     "id": "auto20261028-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-28",
     "person": "セドリック・グロレ",
     "source": "Toutes les Box",
@@ -1290,6 +1384,7 @@
   {
     "id": "auto20261029-1",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-10-29",
     "person": "ニナ・メタイエ",
     "source": "Gilles Pudlowski",
@@ -1303,6 +1398,7 @@
   {
     "id": "auto20261030-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-30",
     "person": "アラン・デュカス",
     "source": "Have a Good Holiday",
@@ -1316,6 +1412,7 @@
   {
     "id": "auto20261030-2",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-10-30",
     "source": "Gault&Millau",
     "time": "2026年9月28日発表(2027年版パティシエ賞)",
@@ -1328,6 +1425,7 @@
   {
     "id": "auto20261031-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-31",
     "person": "セドリック・グロレ",
     "source": "Monte-Carlo Société des Bains de Mer",
@@ -1341,6 +1439,7 @@
   {
     "id": "auto20261031-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-31",
     "person": "ジュリアン・デュゴー",
     "source": "Paris Gourmand",
@@ -1354,6 +1453,7 @@
   {
     "id": "auto20261031-3",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-10-31",
     "person": "ニコラ・ゲルシオ",
     "source": "Paris Gourmand",
@@ -1367,6 +1467,7 @@
   {
     "id": "auto20261101-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-01",
     "person": "クリストフ・ミシャラク",
     "source": "Gault&Millau",
@@ -1380,6 +1481,7 @@
   {
     "id": "auto20261101-2",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-11-01",
     "source": "Gault&Millau",
     "time": "2026年11月1日発売(予約は10月14日より)",
@@ -1392,6 +1494,7 @@
   {
     "id": "auto20261101-3",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-11-01",
     "person": "ヤニック・アレノ",
     "source": "Gault&Millau",
@@ -1405,6 +1508,7 @@
   {
     "id": "auto20261102-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-02",
     "person": "トマッソ・グロレーロ",
     "source": "VRT News / DH Net",
@@ -1418,6 +1522,7 @@
   {
     "id": "auto20261103-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-03",
     "person": "ピエール・エルメ",
     "source": "BnF(フランス国立図書館)",
@@ -1431,6 +1536,7 @@
   {
     "id": "auto20261103-2",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-11-03",
     "person": "ヴァンサン・ゲルレ",
     "source": "Have a Good Holiday",
@@ -1444,6 +1550,7 @@
   {
     "id": "auto20261104-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-04",
     "person": "ヤニック・アレノ",
     "source": "Paris Gourmand",
@@ -1457,6 +1564,7 @@
   {
     "id": "auto20261104-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-04",
     "person": "マキシム・フレデリック",
     "source": "Paris Gourmand",
@@ -1470,6 +1578,7 @@
   {
     "id": "auto20261104-3",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-04",
     "person": "オリヴィエ・レネ",
     "source": "Paris Gourmand",
@@ -1483,6 +1592,7 @@
   {
     "id": "auto20261105-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-05",
     "person": "マチュー・カルラン",
     "source": "Rosewood Hotels(プレスリリース)",
@@ -1496,6 +1606,7 @@
   {
     "id": "auto20261105-2",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-05",
     "person": "ジュスタン・ブロック",
     "source": "CNBPF(全国製菓製パン連合会)",
@@ -1509,6 +1620,7 @@
   {
     "id": "auto20261105-3",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-11-05",
     "person": "エドゥアール・イルサンジェ",
     "source": "Gault&Millau",
@@ -1522,6 +1634,7 @@
   {
     "id": "auto20261106-1",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-11-06",
     "person": "ヨアン・デュトロン",
     "source": "So Good Magazine",
@@ -1535,6 +1648,7 @@
   {
     "id": "auto20261106-2",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-06",
     "person": "レ・ヴェルジェ・ボワロン",
     "source": "So Good Magazine",
@@ -1548,6 +1662,7 @@
   {
     "id": "auto20261107-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-07",
     "person": "アクセル・パショ",
     "source": "La Toque",
@@ -1561,6 +1676,7 @@
   {
     "id": "auto20261108-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-08",
     "person": "ピエール・エルメ",
     "source": "Sortiraparis",
@@ -1574,6 +1690,7 @@
   {
     "id": "auto20261108-2",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-08",
     "source": "Yonder",
     "time": "2026年11月9日",
@@ -1586,6 +1703,7 @@
   {
     "id": "auto20261108-3",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-08",
     "person": "セドリック・グロレ",
     "source": "Gault&Millau",
@@ -1599,6 +1717,7 @@
   {
     "id": "auto20261109-1",
     "cat": "event",
+    "country": "france",
     "addedAt": "2026-11-09",
     "source": "Sortiraparis",
     "time": "2026年11月26日スタート",
@@ -1611,6 +1730,7 @@
   {
     "id": "auto20261109-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-09",
     "person": "ニコラ・クロワゾー",
     "source": "La Maison du Chocolat",
@@ -1624,6 +1744,7 @@
   {
     "id": "auto20261110-1",
     "cat": "craft",
+    "country": "france",
     "addedAt": "2026-11-10",
     "person": "ボエンミー",
     "source": "Le Bonbon",
@@ -1637,6 +1758,7 @@
   {
     "id": "auto20261110-2",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-11-10",
     "source": "Sortiraparis",
     "time": "2026年11月5日〜30日",
@@ -1649,6 +1771,7 @@
   {
     "id": "auto20261110-3",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-10",
     "person": "ジョアン・ジアケッティ",
     "source": "Tendance Hôtellerie",
@@ -1662,6 +1785,7 @@
   {
     "id": "auto20261111-1",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-11",
     "person": "ピエール・エルメ",
     "source": "Pierre Hermé Paris Marunouchi",
@@ -1675,6 +1799,7 @@
   {
     "id": "auto20261111-2",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-11-11",
     "person": "ジョアニック・タトン",
     "source": "LExpress Education / Institut Lyfe",
@@ -1688,6 +1813,7 @@
   {
     "id": "auto20261111-3",
     "cat": "design",
+    "country": "france",
     "addedAt": "2026-11-11",
     "person": "マキシム・フレデリック",
     "source": "Journal du Luxe",
@@ -1701,6 +1827,7 @@
   {
     "id": "auto20261112-1",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-11-12",
     "person": "クレマン・レオテ",
     "source": "Gault&Millau",
@@ -1714,6 +1841,7 @@
   {
     "id": "auto20261112-2",
     "cat": "collection",
+    "country": "france",
     "addedAt": "2026-11-12",
     "person": "ストレー",
     "source": "Paris Gourmand",
@@ -1727,6 +1855,7 @@
   {
     "id": "auto20261112-3",
     "cat": "people",
+    "country": "france",
     "addedAt": "2026-11-12",
     "person": "アラン・デュカス",
     "source": "Haveagood Holiday",
@@ -1736,5 +1865,154 @@
     "detail": "2026年11月16日、名古屋栄三越地下1階に新店舗が開業します。伝統的な製法で作るチョコレートに加え、シェフならではの発想で焼き上げるビスケットも並び、店内のイートインスペースではソフトクリームなども楽しめます。名古屋栄三越限定として、金粉を飾った一粒や、名古屋の象徴「鯱」を描いた限定スリーブ入りの「プラリネ・ア・ランシエンヌ」アソートも用意され、パリの工房の技とアラン・デュカスの美意識を日本に伝えています。",
     "url": "https://www.haveagood-holiday.com/en/articles/alain-ducasse-chocolat-paris-nagoya-sakae-mitsukoshi-opening",
     "image": "images/auto20261112-3.jpg"
+  },
+  {
+    "id": "world20261104-2",
+    "cat": "collection",
+    "country": "japan",
+    "addedAt": "2026-11-04",
+    "person": "ニナ・メタイエ",
+    "source": "Precious.jp",
+    "time": "2026年12月19日〜25日受け取り",
+    "title": "世界最優秀パティシエ ニナ・メタイエ氏、「ザ・リッツ・カールトン東京」初のクリスマスコレクションを発表",
+    "summary": "2024年「世界のベストレストラン50」世界最優秀パティシエ受賞のニナ・メタイエ氏が、ミュージカル「Une seconde avant Noel」に着想を得たクリスマスコレクションを考案。",
+    "detail": "東京・六本木「ザ・リッツ・カールトン東京」1階のパティスリー「ニナ ザ・リッツ・カールトン東京」が、同店初となるクリスマス&ニューイヤーコレクションを発表した。サンタクロース誕生譚をテーマにしたビュッシュ・ド・ノエル「ラ・シュルプリーズ」をはじめ、チョコレートとタイムのムースをヤドリギの花束に見立てた「ル・ギュイ」、日本限定のいちごショートケーキ、ココナッツ・マンゴー・ライムの「エキゾチックフルーツ&ココナッツ・ビュッシュ」、アールグレイとチョコレートの「アールグレイ&チョコレート・ビュッシュ」の5種類のクリスマスケーキに加え、1人分デザートやガレット・デ・ロワも展開する。クリスマスケーキの予約は10月5日から12月10日まで受け付け、受け取りは12月19日から25日、価格は8,500円〜38,000円(税込)。",
+    "url": "https://precious.jp/articles/-/63750",
+    "image": "images/world20261104-2.jpg"
+  },
+  {
+    "id": "world20261104-3",
+    "cat": "people",
+    "country": "italy",
+    "addedAt": "2026-11-04",
+    "person": "マッテオ・コスタ",
+    "source": "La Sicilia",
+    "time": "2026年10月27日決勝",
+    "title": "パレルモの「パスティッチェリア・コスタ」、伊最高峰パネットーネコンクール「マストロ・パネットーネ・デリート」決勝進出",
+    "summary": "シチリア出身のマッテオ・コスタ氏が、伝統パネットーネ部門の決勝に進出。10年目を迎える同コンクールの決勝は「手仕事」を重視した新形式で行われた。",
+    "detail": "パレルモの「パスティッチェリア・コスタ」を営むマッテオ・コスタ氏が、Goloasi主催の全国コンクール「マストロ・パネットーネ・デリート」伝統パネットーネ部門の決勝進出を果たした。10月6日から8日にかけてバーリ県トゥーリで行われた試食審査を経て選出された。決勝は2段階制で、10月19日から23日にヴィチェンツァ県イゾラ・ヴィチェンティーナのWaico Groupの工房で、出場者自らがパネットーネを製造する「マーニ・イン・パスタ」フェーズを実施。その製品そのものが10月27日、トゥーリのRelais Il Santissimoで審査員により評価・採点される形式が取られた。今年で10回目、「デリート」形式では2回目となる同コンクールは、職人が製造工程すべてに関わる技術力そのものを評価する狙いがあるという。",
+    "url": "https://www.lasicilia.it/news/gusto/3081398/il-palermitano-matteo-costa-vola-in-finale-con-il-panettone-tradizionale-al-mastro-panettone-delite.html",
+    "image": "images/world20261104-3.webp"
+  },
+  {
+    "id": "world20261109-1",
+    "cat": "event",
+    "country": "belgium",
+    "addedAt": "2026-11-09",
+    "person": "トンマーゾ・グローレロ",
+    "source": "Euro Weekly News",
+    "time": "2026年10月26日〜27日開催(決勝)",
+    "title": "イタリア人ショコラティエ トンマーゾ・グローレロ、ワールド・チョコレート・マスターズ2026世界王者に",
+    "summary": "ベルギー・アントワープの決勝で、見る角度により印象が変わる作品「The Invisible」が最高賞を獲得。",
+    "detail": "世界最大級のチョコレート技術コンクール「ワールド・チョコレート・マスターズ」の2026年グランドファイナルが、10月26日と27日の2日間、ベルギー・アントワープの歴史的建築「ハンデルスベルス」で開催された。14の地域チャンピオンが集う中、イタリア代表のトンマーゾ・グローレロ氏が優勝。見る角度によって印象が変化する錯視技法を用いた作品「The Invisible」で、「Best Taste」と「Best Design」の両賞も受賞した。審査は今年のテーマ「Play and Taste」に基づく4つの課題で行われ、味・技術・創造性・素材の魅力的な表現力が評価基準となった。2位は中国代表のリュウ・ハオラン氏(「Best Bonbon」「Best Share」も受賞)、3位は日本代表のコシミズ・ケイタ氏。イタリアの優勝は2013年以来13年ぶりとなる。",
+    "url": "https://euroweeklynews.com/2026/10/29/italian-chocolatier-wins-world-crown-in-belgium-after-spectacular-antwerp-final/",
+    "image": "images/world20261109-1.jpg"
+  },
+  {
+    "id": "world20261109-2",
+    "cat": "collection",
+    "country": "italy",
+    "addedAt": "2026-11-09",
+    "person": "ジャン・ピエロ・ヴィヴァルダ",
+    "source": "Marketing-Interactive / Content Grip",
+    "time": "2026年11月発売",
+    "title": "トリノの老舗ショコラティエVenchi、絵本の世界観まとう2026年クリスマスコレクション「Vintage Dream」",
+    "summary": "木製アドベントカレンダーや菓子職人協業のパネットーネなど、「チョコレートの谷」を描く限定ラインを展開。",
+    "detail": "イタリア・トリノ発の老舗ショコラティエ、Venchiが2026年のクリスマスコレクション「Vintage Dream」を発表した。チョコレートの川や雪山、木々が広がる「チョコレートの谷」という絵本的世界観を軸に、24個の引き出しを持つ家形の木製アドベントカレンダーや、立体ポップアップ式のプレステージ版、ツリー・星・電車・ジンジャーブレッド型の缶、ピエモンテ産ヘーゼルナッツを使ったヌガティーヌ入りチョコレートなどを展開する。目玉の一つは、名店「アンティカ・コロナ・レアーレ」のシェフ、ジャン・ピエロ・ヴィヴァルダ氏と協業したパネットーネ「Chocoviar」で、保存料を使わない天然発酵のサワードウに75%のエクストラダークチョコレートを練り込み、同率のチョコレート粒でコーティングしている。11月9日発売。",
+    "url": "https://www.marketing-interactive.com/venchi-unwraps-vintage-dream-2026-christmas-collection",
+    "image": "images/world20261109-2.webp"
+  },
+  {
+    "id": "world20261110-1",
+    "cat": "collection",
+    "country": "belgium",
+    "addedAt": "2026-11-10",
+    "source": "Brussels Morning",
+    "time": "2026年10月22日発表",
+    "title": "ベルギーのショコラトリーCentho、日本に着想した「ジャパン・コレクション」含むクリスマス新作を発表",
+    "summary": "オーナーの10年来の日本訪問から生まれた16粒入りプラリネなど新作を発売。",
+    "detail": "ベルギーのショコラトリーCenthoが10月22日、2026年のクリスマスコレクションを発表した。目玉はオーナーが10年以上にわたり日本を訪れた経験から着想した16粒入りの「ジャパン・コレクション」(25ユーロ)で、ベルギーと日本の定番フレーバーを組み合わせた、今季最も個人的なコレクションとして紹介されている。ほかに三角形の箱に20粒入った「クリスマスボックス」(30ユーロ)、星形パッケージの「スターボックス」(42ユーロ)、56粒入りの「ギフトボックス」(60ユーロ)、25粒入りの2026年アドベントカレンダー(45ユーロ)、ナッツの風味を前面に出した「シグネチャー・ナッツ・コレクション」(28ユーロ)などを展開する。単一産地のカカオを用いた個包装デザート「Centho Festive Dessert」(9ユーロ)も登場する。",
+    "url": "https://brusselsmorning.com/centho-belgian-chocolates-new/105893/",
+    "image": "images/world20261110-1.jpg"
+  },
+  {
+    "id": "world20261110-2",
+    "cat": "collection",
+    "country": "japan",
+    "addedAt": "2026-11-10",
+    "source": "エンジョイ・トーキョー",
+    "time": "2026年11月16日オープン",
+    "title": "「カフェ・ラデュレ」東京1号店が新丸ビルに、ピスタチオ系ドリンクとラデュレ初のレモンケーキ登場",
+    "summary": "老舗ラデュレの新業態、東京1号店が新丸の内ビルディングに11月16日開業。",
+    "detail": "フランスの老舗パティスリー「ラデュレ」の新業態「カフェ・ラデュレ」の東京1号店が、11月16日に東京・丸の内の新丸の内ビルディング地下1階に開業する。名古屋・大宮には2026年7月に先行オープンしており、東京進出は今回が初めて。店舗限定の新作ドリンクとして、ピスタチオペーストとシロップを使った「ショコラ・ピスタチオ・ラテ」(1,296円)、抹茶とピスタチオを組み合わせた「抹茶ピスタチオ・ラテ」(1,080円)を用意する。フードでは、シチリア産レモンとフランス産発酵バターを使ったラデュレ初の「レモンケーキ」(1個486円)を先行発売。サラダやサンドイッチ、ヴィエノワズリーのテイクアウトメニューや、マカロンなど定番の焼き菓子も販売する。",
+    "url": "https://www.enjoytokyo.jp/news/205234/",
+    "image": "images/world20261110-2.webp"
+  },
+  {
+    "id": "world20261110-3",
+    "cat": "collection",
+    "country": "france",
+    "addedAt": "2026-11-10",
+    "person": "エティエンヌ・ルロワ",
+    "source": "Toutes les Box",
+    "time": "2026年11月15日〜12月16日発売",
+    "title": "ルノートル、星空がテーマの2026年クリスマスコレクション「天の川の下で」を発表",
+    "summary": "世界チャンピオンのエティエンヌ・ルロワが手がける190ユーロの雪の村ビュッシュが目玉。",
+    "detail": "フランスの老舗パティスリー「ルノートル」が、2026年のクリスマスコレクション「天の川の下で(Voyage sous la Voie lactee)」を発表した。デザインを手がけたのは、同社の創作ディレクターで元世界パティスリー選手権王者のエティエンヌ・ルロワ氏。目玉となる限定ビュッシュ「雪の村(Le Village enneige)」は6人分・2.1kgで190ユーロ、12月16日発売。ほかに6人分670gの「ビュッシュ・ポレール」(89ユーロ、12月16日発売)、4人分から8人分までシェア用のビュッシュ(48〜90ユーロ、12月16日発売)、1個10.5ユーロの小型ビュッシェット(12月4日発売)を揃える。24粒入り310gの2026年アドベントカレンダー(69ユーロ)は、11月15日から販売が始まる。",
+    "url": "https://touteslesbox.fr/buche-noel-lenotre-2026-village-enneige-190-euros/",
+    "image": "images/world20261110-3.jpg"
+  },
+  {
+    "id": "world20261111-1",
+    "cat": "collection",
+    "country": "uk",
+    "addedAt": "2026-11-11",
+    "source": "Grocery Gazette",
+    "time": "2026年11月13日開業",
+    "title": "スイスの名門チョコレート店Lindt、ロンドン・ウェストフィールド ホワイトシティに世界200店舗目を出店",
+    "summary": "30種類以上を量り売りする「ピック&ミックス」カウンターを備えた新店が11月13日開業。",
+    "detail": "スイスのチョコレートメーカーLindtが、ロンドンの商業施設「ウェストフィールド ホワイトシティ」に新店舗をオープンする。11月13日の開業で、広さ約150平方メートル、英国内では32店舗目、ロンドン市内では5店舗目にあたるが、世界全体では記念すべき200店舗目という節目の出店になるという。店内には30種類以上のチョコレートを好きな組み合わせで購入できる量り売りカウンター「ピック&ミックス」や、季節限定商品、特製ドリンクを提供するチョコレートバーを設置するほか、限定ギフトやその場でのパーソナライズサービスも用意する。クリスマス商戦に向けては「Lindor」のギフトボックスやショートブレッド、人気のテディベア型チョコレートなどのホリデー商品を揃える。開業記念として先着250名に購入特典のギフトバッグとLindorのお菓子を配布する。",
+    "url": "https://www.grocerygazette.co.uk/2026/11/06/lindt-expands-london-footprint-with-new-westfield-store/",
+    "image": "images/world20261111-1.png"
+  },
+  {
+    "id": "world20261111-2",
+    "cat": "collection",
+    "country": "usa",
+    "addedAt": "2026-11-11",
+    "source": "Chain Drug Review",
+    "time": "2026年10月1日発売",
+    "title": "米GODIVA、「Winter in the City」をテーマにした2026年ホリデーコレクションを発表",
+    "summary": "ベルギー仕込みの製法を生かした58ドルのアドベントカレンダーなど、主要百貨店で展開。",
+    "detail": "米国のGODIVAが、2026年のホリデーコレクションを発表した。ニューヨーク発のベルギー仕込みの製法を特徴とする同コレクションでは、「Winter in the City」をテーマにした24ピース入りアドベントカレンダー(58ドル)が目玉で、ダーク・ミルク・ホワイトの各チョコレートにガナッシュやフルーツ風味、キャラメルなどを詰め合わせている。ほかに、個包装チョコレート3種を詰めた「マスターピース・ホリデー・バッグ」(7.49ドル)、7個入りの「マスターピース・ホリデー・サンタボックス」(18ドル)、6種類の味を含む「ゴールド・バロタン」ホリデー缶(8個入り22ドル、15個入り40ドル)、トリュフ15個入りのホリデー缶(40ドル)などを展開する。いずれも10月1日からメイシーズ、ブルーミングデールズ、GODIVA公式サイトなどで順次販売されている。",
+    "url": "https://chaindrugreview.com/godiva-unveils-2026-holiday-collection/",
+    "image": "images/world20261111-2.jpg"
+  },
+  {
+    "id": "world20261112-1",
+    "cat": "collection",
+    "country": "uk",
+    "addedAt": "2026-11-12",
+    "source": "Retail Times",
+    "time": "2026年11月2日発売",
+    "title": "Hotel Chocolat、ドイツ菓子レープクーヘンに着想した冬季限定ドリンクチョコレートを発売",
+    "summary": "シナモンとジンジャーを効かせた新フレーバーが、人気の定番ペパーミントホワイトと共に登場。",
+    "detail": "英国の人気チョコレートブランドHotel Chocolatが、2026年11月2日より冬季限定のドリンクチョコレート「Lebkuchen(レープクーヘン)」を発売した。ドイツのクリスマスマーケットで親しまれる伝統菓子レープクーヘンに着想を得て、シナモンとジンジャーの温かな風味を同社特製のキャラメルミルクチョコレートに溶け込ませている。社内のチョコレート職人が手がけた数量限定フレーバーで、自宅用のドリンクチョコレートシリーズと直営カフェの両方で提供される。同時に、2022年の初登場から数えて5年目のクリスマスを迎える定番フレーバー「ペパーミントホワイト」(タスマニア産ペパーミントと36%ホワイトチョコレートを使用)も再登場し、ホリデーシーズンのラインアップに加わった。",
+    "url": "https://retailtimes.co.uk/hotel-chocolat-expands-festive-drinking-chocolate-line-up-with-brand-new-lebkuchen/",
+    "image": "images/world20261112-1.jpg"
+  },
+  {
+    "id": "world20261112-2",
+    "cat": "collection",
+    "country": "japan",
+    "addedAt": "2026-11-12",
+    "person": "福尾リョウ(東海オンエア)",
+    "source": "ベストカレンダー",
+    "time": "2026年12月1日オープン予定",
+    "title": "人気YouTuber発のパティスリー「La Maison du R」、大丸梅田店に関西初出店",
+    "summary": "東海オンエアのりょうが手がける洋菓子店の3店舗目が、12月1日に大阪で開業。",
+    "detail": "人気YouTuberグループ「東海オンエア」のりょう(福尾リョウ氏)が手がける洋菓子店「La Maison du R」が、2026年12月1日に大丸梅田店(大阪市)にオープンする。愛知県岡崎市の本店、名古屋店に続く3店舗目で、関西地区には初出店となる。オープンに際しては、ジャージー牛の生乳クリームを使い、ベリーで仕上げたバスクチーズケーキ仕立てのクリスマスケーキ(5,500円、税込)を発表した。予約は10月1日より大丸松坂屋オンラインストアで受け付けており、店頭受け取りは12月24日・25日の2日間に限定される。同ブランドは店舗空間や体験も含めた「+α」の価値を掲げ、岡崎店で培った技術を生かした展開を進めている。",
+    "url": "https://bestcalendar.jp/press/155355",
+    "image": "images/world20261112-2.webp"
   }
 ]
