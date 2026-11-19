@@ -2044,5 +2044,33 @@
     "detail": "シリル・リニャック氏が手がける新業態「モコ」は、カカオにまるごと捧げられた空間として構想されています。場所はパリ11区リュ・シャンゾー25番地で、2026年の年末商戦前のオープンを予定。インスタグラムで公開されたティーザー映像にはマシュマロのくまが登場し、キャラメルやピスタチオ、ホワイトチョコといったフレーバーのクリスマス向けラインナップも予告されています。コーヒーショップの機能も併設される見込みで、紅茶やコーヒー、抹茶を使ったドリンクの提供も期待されています。",
     "url": "https://www.purepeople.com/article/il-vient-tout-juste-de-concretiser-un-reve-mais-cyril-lignac-a-deja-un-nouveau-projet-cette-nouvelle-adresse-quil-va-ouvrir-a-paris-dans-quelques-semaines_a555297/1",
     "image": "images/stock/people-1.jpg"
+  },
+  {
+    "id": "auto20261120-1",
+    "cat": "collection",
+    "country": "france",
+    "addedAt": "2026-11-20",
+    "person": "アモリーノ",
+    "source": "Paris Gourmand",
+    "time": "2026年11月発売(数量限定)",
+    "title": "イタリア仕立てのジェラート店「アモリーノ」、2026年クリスマス限定ビュッシュ・グラッセ「ランジェロ・3ショコラ」を発表",
+    "summary": "ジェラート専門店アモリーノが、ホワイト・ダーク・ジャンドゥーヤの3種のチョコレートを重ねたグルテンフリーの限定ビュッシュ・グラッセを発表した。",
+    "detail": "ピエモンテの名物であるジャンドゥーヤ(チョコレートとヘーゼルナッツ)のソースに、ホワイトチョコレートの削り片を重ね、なめらかなホワイトチョコレートのジェラートの下にはプラリネのクリスピー台を敷いている。中心には風味の強いダークチョコレートのジェラートを閉じ込め、ホワイト・ダーク・ジャンドゥーヤという3種のチョコレートが層を成す構成になっている。8〜10人分46ユーロで、2026年11月より数量限定で販売されている。",
+    "url": "https://www.parisgourmand.com/shopping-fetes/buche-de-noel-2026-amorino.html",
+    "image": "images/stock/collection-1.jpg"
+  },
+  {
+    "id": "auto20261120-2",
+    "cat": "event",
+    "country": "france",
+    "addedAt": "2026-11-20",
+    "person": "アンドレア・ソレダッド・ロペス",
+    "source": "Le Journal des Palaces",
+    "time": "2026年11月9日(結果発表は17日)",
+    "title": "女性限定コンクール「ラ・キュイエール・ドール」2026年大会、パティスリー部門はイタリアのアンドレア・ソレダッド・ロペス氏が優勝",
+    "summary": "フランスの女性限定コンクール「ラ・キュイエール・ドール」第8回大会の結果が発表され、パティスリー部門はイタリアのホテルで働くパティシエが頂点に立った。",
+    "detail": "パリの製菓学校フェランディで2026年11月9日に行われた決勝の結果が、11月17日に公式発表された。テーマ「アンフィニマン・メール(無限の海)」のもと競われたパティスリー部門では、イタリア・アバーノ・テルメのグランホテルに勤めるアンドレア・ソレダッド・ロペス氏が優勝し、2位にはメゾン・ジル・グジョンのカディージャ・アムー氏、3位にはパティスリー・ブーランジェリー・ヴァンサンのマリア・バリエヴァ氏が入った。同コンクールは、料理と製菓の分野で過小評価されがちな女性の才能を発掘し支援することを目的に、2010年にマリー・ソース=ブローが創設した。",
+    "url": "https://www.journaldespalaces.com/communique-80034-france-recompenses-gastronomie-ferrandi-paris-les-laureates-de-la-8e-edition-de-la-cuillere-d-or-sont-enfin-devoilees.html",
+    "image": "images/stock/event-1.jpg"
   }
 ]
