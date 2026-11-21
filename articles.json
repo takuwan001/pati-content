@@ -2072,5 +2072,33 @@
     "detail": "パリの製菓学校フェランディで2026年11月9日に行われた決勝の結果が、11月17日に公式発表された。テーマ「アンフィニマン・メール(無限の海)」のもと競われたパティスリー部門では、イタリア・アバーノ・テルメのグランホテルに勤めるアンドレア・ソレダッド・ロペス氏が優勝し、2位にはメゾン・ジル・グジョンのカディージャ・アムー氏、3位にはパティスリー・ブーランジェリー・ヴァンサンのマリア・バリエヴァ氏が入った。同コンクールは、料理と製菓の分野で過小評価されがちな女性の才能を発掘し支援することを目的に、2010年にマリー・ソース=ブローが創設した。",
     "url": "https://www.journaldespalaces.com/communique-80034-france-recompenses-gastronomie-ferrandi-paris-les-laureates-de-la-8e-edition-de-la-cuillere-d-or-sont-enfin-devoilees.html",
     "image": "images/stock/event-1.jpg"
+  },
+  {
+    "id": "auto20261121-1",
+    "cat": "collection",
+    "country": "france",
+    "addedAt": "2026-11-21",
+    "person": "エディ・ベンガネム",
+    "source": "Le Journal des Palaces",
+    "time": "2026年10月26日発表(販売は11月1日)",
+    "title": "ワルドーフ・アストリア ヴェルサイユ=トリアノン宮殿のシェフパティシエ、サロン・デュ・ショコラ2026で8つの新作を発表",
+    "summary": "ワルドーフ・アストリア ヴェルサイユ=トリアノン宮殿のシェフパティシエ、エディ・ベンガネム氏が、サロン・デュ・ショコラ2026に合わせて8種の新作菓子を発表した。",
+    "detail": "幼少期の定番菓子「ブードワール(レディフィンガー型ビスキュイ)」を再解釈した3品と、マンゴーとココナッツ、レモンとハーブ、スモーキーヴァニラ・キャラメル・洋梨、ブロンテ産ピスタチオとオレンジフラワー、ポップコーンといった5つの新作を合わせた全8品が披露された。2026年11月1日にパヴィヨン・シニャチュールで販売され、同日にはメルコット氏とのマスタークラスも開催された。",
+    "url": "https://www.journaldespalaces.com/communique-79847-eddie-benghanem-chef-patissier-du-waldorf-astoria-versailles-trianon-palace-devoile-huit-creations-inedites-au-salon-du-chocolat-2026.html",
+    "image": "images/stock/collection-2.jpg"
+  },
+  {
+    "id": "auto20261121-2",
+    "cat": "event",
+    "country": "france",
+    "addedAt": "2026-11-21",
+    "person": "ティモテ・ブーサ",
+    "source": "Sortiraparis",
+    "time": "2026年11月1日発表",
+    "title": "新設コンクール「グラン・プリ・デュ・パリ・ブレスト」プロ部門、フレデリック・カッセル店のティモテ・ブーサ氏が金賞",
+    "summary": "サロン・デュ・ショコラで発表された新設コンクールのプロ部門で、フォンテーヌブローの名店フレデリック・カッセルのティモテ・ブーサ氏が金賞に輝いた。",
+    "detail": "全国製菓連合会(CNAP)主催の新設コンクール「グラン・プリ・デュ・パリ・ブレスト・ド・ラ・パティスリー・フランセーズ」。15名のファイナリストが、アーモンドやヘーゼルナッツのプラリネクリームを詰めた伝統的なパリ・ブレストの出来を競い、200点満点のうち120点を「味」が占める審査基準で行われた。プロ部門では、フォンテーヌブローのフレデリック・カッセル(ティモテ・ブーサ氏)が金賞、パリ15区の高塚敏也氏の店が銀賞、同じく15区のパティスリーを営むバンジャマン・ロック氏が銅賞を受賞した。",
+    "url": "https://www.sortiraparis.com/en/news/in-paris/articles/355930-best-paris-brest-in-ile-de-france-2026-grand-prix-winners-revealed",
+    "image": "images/stock/event-2.jpg"
   }
 ]
